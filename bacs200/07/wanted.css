@@ -1,5 +1,6 @@
 body {
     color: green;
+    box-sizing: border-box;
 }
 
 h1 {
