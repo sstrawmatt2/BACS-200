@@ -1,6 +1,7 @@
 body {
     color: green;
     box-sizing: border-box;
+    background-color: tan;
 }
 
 h1 {
@@ -8,4 +9,21 @@ h1 {
     text-align: center;
     background-color: burlywood;
     font-family: cursive;
+    font-size: 70;
+    text-align: center;
+    font-weight: 900
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40;
+    text-align: center;
+    font-weight: 700
+}
+
+img {
+    display: block;
+    margin: auto
 }
