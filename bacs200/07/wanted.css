@@ -2,6 +2,7 @@ body {
     color: red;
     box-sizing: border-box;
     background-color: slategray;
+    border: center;
 }
 
 h1 {
