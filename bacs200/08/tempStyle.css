@@ -10,6 +10,7 @@ h1 {
 body {
     padding: 100;
     margin: 100;
+    background-color: gray
 }
 
 article {
@@ -129,4 +130,12 @@ pre {
 textarea {
     width: 90%;
     margin: auto;
+}
+
+side-menu {
+    margin: 5px;
+    float: left;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    text-align: left;
 }
