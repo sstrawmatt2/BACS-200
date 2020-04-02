@@ -1,15 +1,16 @@
 body {
-    color: goldenrod;
+    color: black;
     border: solid 3px black;
     padding: 100;
     margin: 100;
+    background-color: silver
 }
 
-li {
-    color: blue;
-    font-family: cursive;
+h2 {
+    color: black;
+    font-family: sans-serif;
     font-size: 20;
-    padding: 100;
+    padding: 200;
     margin: 100;
 
 
