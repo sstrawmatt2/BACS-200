@@ -8,8 +8,9 @@ body {
 li {
     color: blue;
     font-family: cursive;
-    font-size: 25;
-    padding: 10;
+    font-size: 20;
+    padding: 100;
+    margin: 100;
 
 
 }
