@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-weight: bolder;
+
+}
+
+nav {
+    background-color: lightgrey;
+    border: 5px solid darkgrey;
+    padding-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-right: 35px;
+    margin-bottom: 20px;
+}
+
+#carousel1 {
+    height: 700px;
+    width: 700px;
+    height: inherit;
+}
+
+p {
+    border: 5px solid darkgrey;
+    padding: 5px;
+}
