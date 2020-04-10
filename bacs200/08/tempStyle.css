@@ -10,7 +10,7 @@ h1 {
 body {
     padding: 100;
     margin: 100;
-    background-color: gray
+    background-color: lightsalmon
 }
 
 article {
@@ -31,7 +31,7 @@ h1 {
     margin: 20px;
     padding: 30px;
     color: black;
-    background-color: royalblue;
+    background-color: lightblue;
     border: 5px solid black;
     text-align: center;
     box-shadow: 2px 2px 5px gray;
