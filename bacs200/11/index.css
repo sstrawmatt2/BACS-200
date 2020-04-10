@@ -1,24 +1,39 @@
 body {
-    background-color: lightblue;
+    background-color: cadetblue;
 }
 
 h1 {
     text-align: center;
+    border: 3px solid black;
+
+}
+
+p {
+    text-align: center;
+    border: 3px solid black;
+    font-family: sans-serif;
 }
 
 h2 {
     text-align: center;
 }
 
+h3 li {
+    text-align: right;
+    border: 3px solid grey;
+}
+
 ul {
     text-align: center;
 }
 
+/*
 li {
-    display: inline-block;
-    font-weight: bolder;
+    text-align: right;
+    border: 3px solid grey;
 
 }
+*/
 
 nav {
     background-color: lightgrey;
@@ -34,9 +49,4 @@ nav {
     height: 700px;
     width: 700px;
     height: inherit;
-}
-
-p {
-    border: 5px solid darkgrey;
-    padding: 5px;
 }
