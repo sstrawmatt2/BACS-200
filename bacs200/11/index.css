@@ -1,6 +1,12 @@
+/*
 body {
-    background-color: cadetblue;
+    color: black;
+    border: solid 3px black;
+    padding: 100;
+    margin: 100;
+    background-color: silver
 }
+*/
 
 h1 {
     text-align: center;
