@@ -1,0 +1,34 @@
+body {
+    color: black;
+    /*    border: solid 3px black;*/
+    background-color: lightgray;
+    padding: 100;
+    margin: 100;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: black;
+    margin: center;
+    float: inherit;
+}
+
+aside {
+    padding-right: 100px;
+    float: right;
+    border: 3px solid black;
+    max-width: 155px;
+    max-height: 320px;
+
+}
+
+/*
+body a img {
+    max-width: 200px;
+    margin: 20px;
+    border: 5px solid cadetblue;
+    box-shadow: 2px 2px 5px black;
+    margin-top: 0px;
+    margin-right: 60px
+}
+*/
