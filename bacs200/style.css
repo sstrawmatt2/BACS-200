@@ -131,12 +131,10 @@ textarea {
     width: 90%;
     margin: auto;
 }
-
 aside {
     padding-right: 100px;
     float: right;
     border: 3px solid black;
     max-width: 155px;
     max-height: 320px;
-
 }
