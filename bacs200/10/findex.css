@@ -32,6 +32,11 @@ img {
     border: 3px solid black;
 }
 
+a {
+    float: left;
+    color: maroon;
+}
+
 /*
 body a img {
     max-width: 200px;
