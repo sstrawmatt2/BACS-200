@@ -22,6 +22,16 @@ aside {
 
 }
 
+li {
+    float: inherit;
+    color: blue;
+}
+
+img {
+    float: right;
+    border: 3px solid black;
+}
+
 /*
 body a img {
     max-width: 200px;
