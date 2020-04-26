@@ -1,7 +1,7 @@
 body {
     color: black;
     /*    border: solid 3px black;*/
-    background-color: white;
+    background-color: lightgray;
     padding: 100;
     margin: 100;
 }
@@ -11,8 +11,8 @@ h2 {
     font-family: sans-serif;
     color: blue;
     margin: center;
-    float: center;
-    border: 3px solid blue
+    float: inherit;
+    border: 3px solid blue;
 }
 
 /*
