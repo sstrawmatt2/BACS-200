@@ -1,46 +1,54 @@
+<!--I got help from w3schools. Most of this code is from their website but I did change a few things.-->
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+    .mySlides {
+        display: none;
+    }
 
-<head>
-    <meta charset="UTF-8">
-    <title>Multimedia</title>
-    <link href="index.css" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-</head>
+</style>
 
 <body>
     <h1>Multimedia</h1>
-    <p>This is an image gallery of the many different places that my girlfriend and I have travelled over the past few years. Some of the places that we have gone were Grand Lake, Steamboat Springs, Seattle, and then the zoo lights from Christmas this year. </p>
+    <p>This is an image gallery of the many different places that my girlfriend and I have travelled over the past few years. Some of the places that we have gone were Grand Lake, Steamboat Springs, Seattle, and then the zoo lights from Christmas this year. We love to travel and currently we are saving up for a trip to Hawaii or San Diego after graduation in 2022. </p>
+    <h2 class="w3-center">My Adventures</h2>
 
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="images/grandLake.png" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item active">
-                <img src="images/steamboat.png" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item active">
-                <img src="images/zooLights.png" class="d-block w-100" alt="...">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
+    <div class="w3-content w3-display-container">
+        <img class="mySlides" src="/bacs200/10/images/grandLake.png" style="width:100%">
+        <img class="mySlides" src="/bacs200/10/images/mountain.png" style="width:100%">
+        <img class="mySlides" src="/bacs200/10/images/seattle.png" style="width:100%">
+        <img class="mySlides" src="/bacs200/10/images/steamboat.png" style="width:100%">
+        <img class="mySlides" src="/bacs200/10/images/zooLights.png" style="width:100%">
+
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
     </div>
 
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
 
-    <h3>Other Links</h3>
-    <li>
-        <a href="https://seanstrawmatt.com/bacs200">Home Page</a>
-    </li>
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
 
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            if (n > x.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = x.length
+            }
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex - 1].style.display = "block";
+        }
+
+    </script>
 
 </body>
 
