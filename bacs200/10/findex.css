@@ -44,3 +44,9 @@ a {
     float: left;
     color: maroon;
 }
+
+h3 {
+    border: solid 3px black;
+    float: center;
+    background-color: lightsteelblue;
+}
