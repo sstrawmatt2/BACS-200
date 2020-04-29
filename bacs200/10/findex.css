@@ -9,12 +9,23 @@ body {
 }
 
 
+/*
 h2 {
     font-family: sans-serif;
     color: blue;
     margin: center;
     float: inherit;
     border: 3px solid blue;
+}
+*/
+h2 {
+    color: black;
+    background-color: lightsteelblue;
+    border: 5px solid black;
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    box-shadow: 2px 2px 5px gray;
 }
 
 /*
