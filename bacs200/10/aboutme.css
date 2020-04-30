@@ -9,3 +9,10 @@ h1 {
     color: black;
 
 }
+
+img {
+    border: 7px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

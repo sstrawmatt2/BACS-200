@@ -1,7 +1,8 @@
 body {
     color: black;
     /*    border: solid 3px black;*/
-    background-color: lightgray;
+    /*    background-color: lightgray;*/
+    background-image: url(images/galapagos1.png);
     padding: 100;
     margin: 100;
     font-family: sans-serif;
