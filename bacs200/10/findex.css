@@ -26,6 +26,7 @@ h2 {
     margin: 10px 20px;
     padding: 10px 20px;
     box-shadow: 2px 2px 5px gray;
+
 }
 
 /*
@@ -41,23 +42,31 @@ aside {
 
 /*
 li {
-    float: inherit;
-    color: blue;
+    text-align: center;
 }
 */
 
 img {
-    float: right;
     border: 7px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
     float: left;
     color: maroon;
+    text-align: center;
 }
 
 h3 {
     border: solid 3px black;
-    float: center;
     background-color: lightsteelblue;
+    float: auto;
+    display: block;
+    /*
+    margin-left: auto;
+    margin-right: auto;
+*/
+
 }
