@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T02:35:45.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="MObdP1hLxwmfaWILFhWd" type="github"><diagram id="ndHjgOm9Cc3zUJgedq8m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T04:06:55.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="5RYt9lSXSq1chVE3-5-N" version="13.7.7" type="github">
+  <diagram id="ndHjgOm9Cc3zUJgedq8m" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tqf4p0WbqP5burp1wn33-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="490" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="350" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="477" y="125" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-4" value="Take nots about new contacts.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="420" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-5" value="Add contact" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-6" value="John Doe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-7" value="555-555-5555" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-8" value="Jim Smith" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-9" value="Steve Rogers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="472" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-10" value="555-555-5551" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-11" value="555-555-5552" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-12" value="" style="image;image=img/lib/atlassian/Atlassian_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-13" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-13">
+          <mxGeometry width="320" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-15" value="John Doe, 555-555-5555" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-14">
+          <mxGeometry width="107" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-16" value="Microsoft" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-14">
+          <mxGeometry x="107" width="106" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-17" value="Gave some great advice on programming tips, possible future employer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-14">
+          <mxGeometry x="213" width="107" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-13">
+          <mxGeometry y="98" width="320" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-19" value="Jim Smith, 555-555-5551" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-18">
+          <mxGeometry width="107" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-20" value="Toyota" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-18">
+          <mxGeometry x="107" width="106" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-21" value="possible network connection, been with Toyota for 10+ years, said to call next week for possible job opening.&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-18">
+          <mxGeometry x="213" width="107" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-13">
+          <mxGeometry y="185" width="320" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-23" value="Steve Rogers, 555-555-5552" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-22">
+          <mxGeometry width="107" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-24" value="Github" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-22">
+          <mxGeometry x="107" width="106" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-25" value="N/A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Tqf4p0WbqP5burp1wn33-22">
+          <mxGeometry x="213" width="107" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-26" value="Name and Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-27" value="Company Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-28" value="Notes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-30" value="TODO:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-31" value="10/06/2020: Contact John Doe about possible interview" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqf4p0WbqP5burp1wn33-32" value="10/15/2020: Email Jim Smith for possible job.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
